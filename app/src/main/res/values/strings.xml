@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OTPthing</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="otp_will_be_sent_to_the_number_you_have_entered_please_enter_correct_number">OTP will be sent to the number you have entered. Please Enter correct number.</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+</resources>
